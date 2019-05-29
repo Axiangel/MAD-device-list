@@ -32,6 +32,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy A5 2017 | Stock | v18 | N/A | N/A | easy | - |
 | Samsung Galaxy J2 - Prime G532M | HadesRom 6.0.1 | v18.1 | N/A | N/A | easy | the only hard part was waiting for a working rom |
 | Samsung Galaxy J2 | Stock | v18 | easy | N/A | easy | Often RGC/PogoDroid Lost Connection |
+| Samsung Galaxy J3 (2016) | LineageOS | v18.1 | yes | yes/usb | easy | Stable and low temp but a bit choppy animation | 
 | Samsung Galaxy On5 | Stock | v18 | easy | N/A | mid | needs pogodroid systemized. systemize both apps before installing smali |
 | Samsung Galaxy S4 - Mini | [LineageOS 14.1](https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-cyanogenmod-14-0-s4-mini-3g-lte-t3471761) | v17.1 | easy | N/A | mid | heat/laggy |
 | Samsung Galaxy S4 | [LineageOS 14.1](https://download.lineageos.org/jfltexx) | v17.1 | easy | N/A | mid | laggy |
